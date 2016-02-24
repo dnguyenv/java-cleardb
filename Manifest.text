@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: mysql-connector.jar
+Main-Class: com.duyhat.ClearRun
+Created-By: Duy V Nguyen (dnguyenv@us.ibm.com)
